@@ -32,8 +32,8 @@
 18. MongoDB using Python
 19. ReGex
 20. Import Data using Python from various sources (**Documentation in progress**)
-21. Sckit
-22. Supervised learning 
+21. Scikit-learn (**In progress**)
+22. Supervised learning (**In progress**)
 23. UnSupervised learning
 24. Deep Learning (Tensor Flow)
 25. Advanced SQL (**Completed**)
