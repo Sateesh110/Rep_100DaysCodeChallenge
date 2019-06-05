@@ -29,7 +29,7 @@
 15. PostgreSQL, SQLite, SQLalchemy (**Completed**)
 16. Statistical Functions (**Completed**)
 17. Data Visulalizations (**Completed**)
-18. MongoDB using Python
+18. MongoDB using Python(**Completed**)
 19. ReGex
 20. Import Data using Python from various sources (**Documentation in progress**)
 21. Scikit-learn (**In progress**)
